@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "STE_TPMoyennes/1.0.0": {
+        "runtime": {
+          "STE_TPMoyennes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "STE_TPMoyennes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
